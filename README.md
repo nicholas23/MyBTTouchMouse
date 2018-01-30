@@ -1,0 +1,1 @@
+this is a practice project for Bluetooth and touch panel control
